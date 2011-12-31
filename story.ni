@@ -4,6 +4,8 @@ Maximum score is 5.
 
 Release along with cover art, a website, an introductory booklet, and an interpreter.
 
+[stuff to add - make sure caps on cardinal directions are correct, check to see if they have the package when leaving, stop them from taking the wrap, figure out a better way to do 'enter' on the main buildings.]
+
 The Front Seat is a room. "Your trusty blue stationwagon, just north of 10 years old. It smells like crayons. [if unvisited]The radio is playing a segment on the growing interactive fiction community.  You like writing, you like computers, you should write one of these IF things. Maybe one about going to the post office.  That wouldn't be boring, would it?[end if]
 
 Exit the car, you have a package to send!"
